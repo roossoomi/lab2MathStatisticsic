@@ -16,3 +16,6 @@
 06:52:19.070 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
 06:59:41.496 [AWT-EventQueue-0] ERROR org.example.Main - Попытка расчета с разным количеством элементов
 06:59:48.724 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
+09:26:31.412 [AWT-EventQueue-0] ERROR org.example.Main - Попытка расчета с разным количеством элементов
+09:26:47.612 [AWT-EventQueue-0] ERROR org.example.Main - Попытка расчета с разным количеством элементов
+09:26:52.039 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
