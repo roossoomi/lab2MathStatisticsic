@@ -19,3 +19,6 @@
 09:26:31.412 [AWT-EventQueue-0] ERROR org.example.Main - Попытка расчета с разным количеством элементов
 09:26:47.612 [AWT-EventQueue-0] ERROR org.example.Main - Попытка расчета с разным количеством элементов
 09:26:52.039 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
+12:23:43.720 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
+12:44:41.629 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
+12:44:50.317 [AWT-EventQueue-0] ERROR org.example.Main - Ошибка при импорте и чтении данных из файла Excel

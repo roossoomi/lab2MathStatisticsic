@@ -140,7 +140,7 @@ public class Main {
                                     @Override
                                     public void actionPerformed(ActionEvent e) {
                                         ExportModule.writeExcelFile(mapArray, mapCovariance);
-                                        frame.dispose();
+                                        //frame.dispose();
                                     }
                                 });
                                 showLog.addActionListener(new ActionListener() {
