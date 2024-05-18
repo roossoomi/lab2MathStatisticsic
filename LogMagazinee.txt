@@ -1,0 +1,16 @@
+04:58:21.831 [AWT-EventQueue-0] ERROR org.example.Main - Sheet is empty or contains only header
+05:07:25.452 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+05:16:28.677 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+05:16:30.055 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+05:18:36.945 [AWT-EventQueue-0] ERROR org.example.Main - Different number of elements in columns, further calculations are not possible
+05:27:57.177 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+05:53:48.589 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+06:12:16.328 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+06:12:58.160 [AWT-EventQueue-0] ERROR org.example.Main - Different number of elements in columns, further calculations are not possible
+06:14:17.091 [AWT-EventQueue-0] ERROR org.example.Main - Different number of elements in columns, further calculations are not possible
+06:14:19.981 [AWT-EventQueue-0] ERROR org.example.Main - Different number of elements in columns, further calculations are not possible
+06:16:39.975 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+06:18:39.945 [AWT-EventQueue-0] WARN  org.example.Main - Sheet contains only one column
+06:26:03.133 [AWT-EventQueue-0] WARN  org.example.Main - Sheet is empty or contains only header
+06:44:45.915 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
+06:52:19.070 [AWT-EventQueue-0] ERROR org.example.Main - Попытка открыть лист без выборок
