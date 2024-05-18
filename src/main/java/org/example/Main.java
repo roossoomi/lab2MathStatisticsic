@@ -98,14 +98,24 @@ public class Main {
                                     logger.error("Попытка открыть лист без выборок");
                                     JOptionPane.showMessageDialog(null, "Лист пустой или содержит только заголовок", "Ошибка", JOptionPane.ERROR_MESSAGE);
                                 }
+
                                 Row headerRow = selectedSheet.getRow(0);
                                 int cols = headerRow.getPhysicalNumberOfCells();
+
                                 int[] columnRowCounts = new int[cols];
+
                                 for (int i = 0; i < cols; i++) {
                                     for (int j = 1; j < rows; j++) {
+                                        Row row = selectedSheet.getRow(j);
+                                        if (row != null) {
+                                            Cell cell = row.getCell(i);
+                                            if (cell != null) {
                                                 columnRowCounts[i]++;
+                                            }
+                                        }
                                     }
                                 }
+
                                 int rowCount = columnRowCounts[0];
                                 for (int i = 1; i < cols; i++) {
                                     if (columnRowCounts[i] != rowCount) {
